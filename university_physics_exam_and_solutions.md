@@ -47,7 +47,7 @@ A small block of mass $m = 0.500\text{ kg}$ slides along a frictionless track. T
 1. Using energy conservation, calculate the speed $v_B$ of the block at the bottom of the loop (**Point B**).
 2. Calculate the normal force $N$ exerted by the track on the block when it reaches the very top of the circular loop (**Point C**, at height $y = 2R = 3.00\text{ m}$).
 
-*(Use $g = 9.80\text{ m/s}^2$)*
+Use g = 9.80 m/s^2
 
 ---
 
